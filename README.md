@@ -108,5 +108,5 @@ def Fibonacci(n):
 
 ## Deliverables:
 The repository includes:<br />
-1.Matthias Bartolo DataStructures Coursework 2022-checkpoint.ipynb: Assignment Code<br />
-2.Matthias Bartolo DSA Coursework2022.pdf: Assignment Documentation/Report
+1. [Matthias Bartolo DataStructures Coursework 2022-checkpoint.ipynb:](https://github.com/mbar0075/Data-Structures-and-Algorithms1/blob/main/Matthias%20Bartolo%20DataStructures%20Coursework%202022-checkpoint.ipynb) Project Code<br />
+2. [Matthias Bartolo DSA Coursework2022.pdf:](https://github.com/mbar0075/Data-Structures-and-Algorithms1/blob/main/Matthias%20Bartolo%20DSA%20Coursework2022.pdf) Project Documentation/Report
